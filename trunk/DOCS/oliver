@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
-   <S:Body>
-      <ns2:createOrderResponse reference="12345" xmlns:ns2="http://www.kiala.com/schemas/psws/1.0">
-         <trackingNumber>0003CA7</trackingNumber>
-      </ns2:createOrderResponse>
-   </S:Body>
-</S:Envelope>
