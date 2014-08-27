@@ -1,0 +1,65 @@
+14-11-2013 16:53:54 - ERROR - 27.2 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+14-11-2013 17:31:08 - ERROR - 27.2 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+15-11-2013 07:44:01 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+15-11-2013 10:08:51 - ERROR - 26.9 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+15-11-2013 15:41:02 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+19-11-2013 16:48:36 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+20-11-2013 16:15:57 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+21-11-2013 20:56:52 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+21-11-2013 20:58:11 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+26-11-2013 12:44:10 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+27-11-2013 09:24:25 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+27-11-2013 10:28:54 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+30-11-2013 02:01:51 - ERROR - 26.0 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+08-12-2013 12:53:41 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+09-12-2013 00:28:43 - ERROR - 26.0 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+09-12-2013 16:34:41 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+12-12-2013 15:26:48 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+12-12-2013 16:23:34 - ERROR - 26.0 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+13-12-2013 18:17:26 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+13-12-2013 18:17:28 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+13-12-2013 18:17:30 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+15-12-2013 19:07:03 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+16-12-2013 13:27:28 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+18-12-2013 11:10:20 - ERROR - 26.0 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+19-12-2013 19:25:46 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+24-12-2013 08:04:03 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+25-12-2013 21:33:47 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+26-12-2013 16:01:28 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+27-12-2013 21:38:46 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+28-12-2013 11:47:52 - ERROR - 27.0 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+09-01-2014 20:24:00 - ERROR - 27.3 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+09-01-2014 20:41:52 - ERROR - 27.3 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+11-01-2014 09:59:27 - ERROR - 27.3 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+17-01-2014 10:09:26 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+17-01-2014 10:09:31 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+20-01-2014 22:23:50 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+22-01-2014 10:14:13 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+23-01-2014 15:42:40 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+29-01-2014 10:06:19 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+29-01-2014 10:06:21 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+01-02-2014 21:30:59 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+06-02-2014 21:53:59 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+09-02-2014 19:53:05 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+09-02-2014 19:53:05 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+18-02-2014 04:56:28 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+18-02-2014 14:14:46 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+19-02-2014 13:45:34 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+28-02-2014 07:11:51 - ERROR - 28.0 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+02-03-2014 16:25:44 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+09-03-2014 10:13:25 - ERROR - 28.1 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+09-03-2014 20:36:52 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+17-03-2014 21:39:48 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+30-03-2014 21:25:13 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+08-04-2014 11:18:30 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+18-04-2014 07:36:49 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+20-04-2014 01:58:35 - ERROR - 28.1 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+24-04-2014 13:31:10 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+24-04-2014 13:31:11 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+11-05-2014 10:31:53 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+11-05-2014 10:31:53 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+24-05-2014 08:29:30 - ERROR - 29.1 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+24-05-2014 17:22:12 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+19-06-2014 03:50:07 - ERROR - 28.1 MB - Blocked by transient newsletter_main_engine set 0 seconds ago
+19-06-2014 13:21:48 - ERROR - 28.5 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
+20-06-2014 13:54:26 - ERROR - 35.3 MB - mail> The following From address failed: newsletter@strellibeta.com : Called Mail() without being connected
